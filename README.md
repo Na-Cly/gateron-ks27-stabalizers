@@ -1,6 +1,7 @@
 # gateron-ks27-stabalizers
 Kicad footprints for ks27 switches. 
 
+# NOTE: These have not been produced on a pcb yet. Final dimenions of the cutouts may vary after a frist run. 
 
 ### This is a temporary solution to there being no stabalizers produced by gateron for the ks27 low profile switches. 
 
