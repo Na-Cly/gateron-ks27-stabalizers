@@ -1,8 +1,8 @@
 # gateron-ks27-stabalizers
 Kicad footprints for ks27 switches. 
 
-# NOTE: These have not been produced on a pcb yet. Final dimenions of the cutouts may vary after a frist run. 
-
+# ~~NOTE: These have not been produced on a pcb yet. Final dimenions of the cutouts may vary after a frist run.~~
+# Tested these on a pcb and they worked acceptably, sometimes when removing large keycaps the stabalizers would pull off the pcb, but could be pushed back down without issue. 
 ### This is a temporary solution to there being no stabalizers produced by gateron for the ks27 low profile switches. 
 
 Using plate mounted cherry mx stabalizers in the pcb of ks27 boards you can use existing cherry mx compatible stabalizers with the ks27 switches. The current trade off is it uses about 4.2mm below the pcb which is not always achievable given design constraints. 
